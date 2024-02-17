@@ -226,7 +226,7 @@ $result4 = $conn->query($sql4);
                                     'December' => 'ธันวาคม'
                                 );
                                 
-                                $date = strtotime($row4["datetime"]);
+                                $date = strtotime($row3["datetime"]);
                                 $day = $thai_days[date('l', $date)];
                                 $month = $thai_months[date('F', $date)];
                                 $year = date('Y', $date)+543;
