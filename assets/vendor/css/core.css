@@ -4630,8 +4630,7 @@ textarea.form-control-lg {
 
 .modal-delete{
   position: fixed;
- 
-  left: 500px;
+  left: 39%;
 }
 
 .modal-dialog {
