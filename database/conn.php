@@ -6,11 +6,7 @@ $username = "root";
 $password = "";
 $database = "hci66";
 
-// Producion
-// $servername = "localhost";
-// $username = "root";
-// $password = "543021264-9";
-// $database = "hci66";
+
 
 
 // สร้างการเชื่อมต่อ
